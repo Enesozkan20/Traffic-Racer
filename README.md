@@ -6,7 +6,6 @@ This project is a **Traffic Racer** game developed on the **Snap!** platform. Th
 **Traffic Racer** is an endless racing game where the player navigates through a dynamically moving traffic environment. The goal is to avoid other cars, keep driving, and rack up points!  
 
 ### Features:  
-- **Dynamic Traffic**: Cars move at different speeds, making the game more challenging.  
 - **Scoring System**: Players earn points based on the distance traveled.  
 - **Simple Controls**: Easy to play using arrow keys.  
 
@@ -19,12 +18,6 @@ This project is designed to run on the **Snap!** platform. Follow the steps belo
 
 ## 🗂️ File Descriptions  
 - **traffic_racer.xml**: The main Snap! project file containing the game’s scripts and sprites.  
-- **README.md**: This document, which explains the project details and setup instructions.  
-- **screenshots/**: A folder containing screenshots of the game (optional).  
-
-## 📸 Screenshots  
-Here are some snapshots from the game:  
-![Gameplay Screenshot](screenshots/gameplay.png)  
 
 ## 🛠️ Development Stages  
 - **Stage 1**: Set up basic game mechanics (car movement and traffic generation).  
